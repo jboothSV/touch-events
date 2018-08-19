@@ -19,6 +19,7 @@
 
             <div class="col">
                 <div class="cont">
+                <h1>Hello World</h1>
                     <div class="square big test" id="target">
                         <div class="square little"></div>
                         <div class="square little"></div>
