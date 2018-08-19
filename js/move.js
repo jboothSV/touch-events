@@ -10,10 +10,6 @@ window.onload = function(){
     t.addEventListener("touchmove", handleMove, true);
     t.addEventListener("touchend", handleEnd, true);
 
-    function start(){
-        console.log("yes")
-    }
-
     function getPoint(e){
         var point = {};
         if(e.targetTouches){
